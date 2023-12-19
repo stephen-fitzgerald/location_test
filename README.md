@@ -1,6 +1,7 @@
 # location_test
 
-A new Flutter project.
+A simple working example of creating a service to provide an app with 
+location data via provider.
 
 ## Getting Started
 
