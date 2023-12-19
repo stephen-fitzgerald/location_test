@@ -3,6 +3,8 @@
 A simple working example of creating a service to provide an app with 
 location data via provider.
 
+https://pub.dev/packages/location
+
 Dependencies: location: ^5.0.3 & provider: ^6.1.1
 
 Has only been run on iOS to date, and needs these setting changed.  
